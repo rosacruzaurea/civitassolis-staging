@@ -1,5 +1,5 @@
 {
-  "source_commit": "6e02155fcb45a528beaa1dc193dab159b70e63b5",
+  "source_commit": "b2b37c776c5d4b986f2e08a5734083fe623e4184",
   "base_path": "/civitassolis-staging",
   "noindex": true,
   "pages": [
@@ -62,5 +62,5 @@
     "it"
   ],
   "videos": 87,
-  "publications": 5
+  "publications": 6
 }
