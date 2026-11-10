@@ -1,6 +1,7 @@
 {
-  "source_commit": "b2b37c776c5d4b986f2e08a5734083fe623e4184",
+  "source_commit": "4e046393ed4808e627e5e5c328e0735903ecce76",
   "base_path": "/civitassolis-staging",
+  "origin": "https://rosacruzaurea.github.io",
   "noindex": true,
   "pages": [
     "index.html",
